@@ -18,6 +18,8 @@ object **Yarles** {
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest)
+![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=Node)
 
 
 
