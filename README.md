@@ -5,8 +5,8 @@
 
 ```kotlin
 object **Yarles** {
- val name = "YARLES DE ANDRADE ESPIRITO SANTO"
- val acknowledgements = "DEV FULL STACK"
+ name: "YARLES DE ANDRADE ESPIRITO SANTO"
+ acknowledgements: "DEV FULL STACK"
 }
 ```
 ## **In learning**
