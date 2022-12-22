@@ -10,12 +10,11 @@ object **Yarles** {
 }
 ```
 <h1>Olá, eu sou yarles de Andrade.</h1>
-Sou desenvolvedor FullStack Jr. com as tecnologias JavaScript, Node.js, React, Redux, React Hooks, HTML5, CSS, Jest, Sequelize, MySQL, API REST, Docker, TypeScript.
-Além dessas tecnologias tambem tenho conhecimento com: Bootstrap, express, git/github, npm, jsx, async await, promisses, context.
+<p>Sou desenvolvedor FullStack Jr. com as tecnologias JavaScript, Node.js, React, Redux, React Hooks, HTML5, CSS, Jest, Sequelize, MySQL, API REST, Docker, TypeScript.</p>
+<p>Além dessas tecnologias tambem tenho conhecimento com: Bootstrap, express, git/github, npm, jsx, async await, promisses, context.</p>
 
-Tenho 26 anos, estudante na instituição trybe, sempre tive uma grande paixão pelo mundo da tecnologia star_struck .
-Me dá grande satisfação quando vejo algo ganhando forma, não só voltado a projetos entregues, mas tambem em conhecimentos agregados.
-
+<p>Tenho 26 anos, estudante na instituição trybe, sempre tive uma grande paixão pelo mundo da tecnologia star_struck.</p>
+<p>Me dá grande satisfação quando vejo algo ganhando forma, não só voltado a projetos entregues, mas tambem em conhecimentos agregados.</p>
 ## **In learning**
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
