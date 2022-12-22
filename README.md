@@ -19,7 +19,7 @@ object **Yarles** {
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest)
-![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=Node)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
 
 
 
