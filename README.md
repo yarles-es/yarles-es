@@ -22,6 +22,7 @@ object **Yarles** {
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
 
 
 
