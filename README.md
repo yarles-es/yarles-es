@@ -9,7 +9,7 @@ object **Yarles** {
  acknowledgements: "DEV FULL STACK"
 }
 ```
-<h1>Olá, eu sou yarles de Andrade.</h1>
+<h1>Olá, eu sou Yarles de Andrade.</h1>
 <p>Sou desenvolvedor FullStack Jr. com as tecnologias JavaScript, Node.js, React, Redux, React Hooks, HTML5, CSS, Jest, Sequelize, MySQL, API REST, Docker, TypeScript.</p>
 <p>Além dessas tecnologias tambem tenho conhecimento com: Bootstrap, express, git/github, npm, jsx, async await, promisses, context.</p>
 
