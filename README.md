@@ -1,4 +1,4 @@
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -16,7 +16,7 @@ object **Yarles** {
 <p>Tenho 26 anos, estudante na instituição trybe, sempre tive uma grande paixão pelo mundo da tecnologia.</p>
 <p>Me dá grande satisfação quando vejo algo ganhando forma, não só voltado a projetos entregues, mas tambem em conhecimentos agregados.</p>
 
-## **In learning**
+## **Tecnologias**
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
@@ -34,7 +34,7 @@ object **Yarles** {
 
 
 
-#### Social Media
+#### Redes sociais
 
 <p align="left">
 <a href="https://www.instagram.com/yarles_es/">
