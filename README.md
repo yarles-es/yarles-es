@@ -31,6 +31,7 @@ object **Yarles** {
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)
 
 
 
