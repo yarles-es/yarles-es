@@ -18,21 +18,8 @@ object **Yarles** {
 
 ## **Tecnologias**
 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)
-![Chai](https://img.shields.io/badge/-Chai-333333?style=flat&logo=chai)
+<code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<code><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 
 
 
