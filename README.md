@@ -24,7 +24,7 @@ object **Yarles** {
 <code><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/-Express.js-green?style=for-the-badge&logo=Express&logoColor=black"></code>
 <code><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=mongodb&logoColor=black"></code>
+<code><img src="https://img.shields.io/badge/MongoDB-FCC624?style=for-the-badge&logo=mongodb&logoColor=black"></code>
 <code><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Chai-f7e9c8?style=for-the-badge&logo=mocha&logoColor=a84d45"></code>
