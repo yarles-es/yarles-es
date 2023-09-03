@@ -10,10 +10,10 @@ object **Yarles** {
 }
 ```
 <h1>Olá, eu sou Yarles de Andrade.</h1>
-<p>Sou desenvolvedor FullStack Jr. com as tecnologias JavaScript, TypeScript, MySQL, MongoDB, Mongoose, API REST, Node.js, React, Redux, React Hooks, HTML5, CSS, Jest, Sequelize, Docker.</p>
+<p>Sou desenvolvedor FullStack Jr. com as tecnologias JavaScript, TypeScript, MySQL, MongoDB, Mongoose, API REST, Node.js, React, Redux, React Hooks, HTML5, CSS, Jest, Sequelize, Docker, Electron.</p>
 <p>Além dessas tecnologias tambem tenho conhecimento com: Bootstrap, express, git/github, npm, jsx, async await, promisses, context.</p>
 
-<p>Tenho 26 anos, sempre tive uma grande paixão pelo mundo da tecnologia.</p>
+<p>Tenho 27 anos, sempre tive uma grande paixão pelo mundo da tecnologia.</p>
 <p>Me dá grande satisfação quando vejo algo ganhando forma, não só voltado a projetos entregues, mas tambem em conhecimentos agregados.</p>
 
 ## **Tecnologias**
