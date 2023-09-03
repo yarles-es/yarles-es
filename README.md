@@ -36,6 +36,7 @@ object **Yarles** {
 <code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <code><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Redux.Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=black"></code>
+<code><img src="https://img.shields.io/badge/Electron-593D88?style=for-the-badge&logo=electron&logoColor=black"></code>
 
 
 
